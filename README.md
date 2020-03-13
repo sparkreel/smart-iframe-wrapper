@@ -1,5 +1,9 @@
 # Live plugin/smart-ifram wrapper
 
+```
+https://sparkreel.github.io/smart-iframe-wrapper/?url={https url encoded}
+```
+
 ## To use it
 Pass as a query parameter the url with the smart iframe to wrap Example using with localhost:3000 (HTTPS=true npm start) the urls needs to be encoded.
 ```
