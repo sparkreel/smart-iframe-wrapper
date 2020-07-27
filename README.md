@@ -1,4 +1,4 @@
-# Live plugin/smart-ifram wrapper
+# Live plugin/smart-iframe wrapper
 
 ```
 https://sparkreel.github.io/smart-iframe-wrapper/?url={https url encoded}
